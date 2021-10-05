@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    padding-top: 100px;
+    color: black;
+    font-weight: bold;
+    font-size: 2.5em;
+    width: auto;
+}
+.img-cust
+{
+    width: 28rem;
+    height: 18em;
+    padding: 2rem;
+    padding-left: 2em;
+    padding-top: 2em;
+    max-width: 100%;
+}
